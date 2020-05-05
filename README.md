@@ -1,6 +1,6 @@
-# Dog Life
+# Annially
 
-Dog Life : Social Media for Dog Lovers UI.
+Annially : Social Media for pet Lovers UI.
 
 Design Credits [Yagnesh](https://www.behance.net/gallery/73935801/Doglife-Ui-Kit-Free-for-Adobe-XD)
 
